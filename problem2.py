@@ -17,6 +17,5 @@ def print_box(s):
 
 word_given = input("Give me a word to box:")
 
-a = print_box(word_given)
+print_box(word_given)
 
-print(a)
